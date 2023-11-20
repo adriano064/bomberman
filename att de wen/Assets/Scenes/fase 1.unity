@@ -2884,7 +2884,7 @@ PrefabInstance:
       objectReference: {fileID: -4352081161940053884, guid: 8c504dcd003defe49b1b924b42e38282, type: 3}
     - target: {fileID: -8452837036093105723, guid: 4d15bd285fde49f4292dd7bbd6ae89ac, type: 3}
       propertyPath: quantidadeBombas
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: -8452837036093105723, guid: 4d15bd285fde49f4292dd7bbd6ae89ac, type: 3}
       propertyPath: duracaodaesplosao
@@ -2924,7 +2924,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 253739859642256577, guid: 4d15bd285fde49f4292dd7bbd6ae89ac, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -6
+      value: -4.98
       objectReference: {fileID: 0}
     - target: {fileID: 253739859642256577, guid: 4d15bd285fde49f4292dd7bbd6ae89ac, type: 3}
       propertyPath: m_LocalPosition.y

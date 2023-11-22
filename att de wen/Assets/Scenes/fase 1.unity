@@ -2887,9 +2887,17 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: -8452837036093105723, guid: 4d15bd285fde49f4292dd7bbd6ae89ac, type: 3}
+      propertyPath: destrutivelTiles
+      value: 
+      objectReference: {fileID: 683169585}
+    - target: {fileID: -8452837036093105723, guid: 4d15bd285fde49f4292dd7bbd6ae89ac, type: 3}
       propertyPath: quantidadeBombas
-      value: 3
+      value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8452837036093105723, guid: 4d15bd285fde49f4292dd7bbd6ae89ac, type: 3}
+      propertyPath: destrutivelPrefab
+      value: 
+      objectReference: {fileID: 1515931477715291099, guid: 46db3fab6d67b1b4bb49c506444db934, type: 3}
     - target: {fileID: -8452837036093105723, guid: 4d15bd285fde49f4292dd7bbd6ae89ac, type: 3}
       propertyPath: duracaodaesplosao
       value: 1
@@ -2932,11 +2940,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 253739859642256577, guid: 4d15bd285fde49f4292dd7bbd6ae89ac, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 5.36
+      value: -5.84
       objectReference: {fileID: 0}
     - target: {fileID: 253739859642256577, guid: 4d15bd285fde49f4292dd7bbd6ae89ac, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 5.11
+      value: 5.19
       objectReference: {fileID: 0}
     - target: {fileID: 253739859642256577, guid: 4d15bd285fde49f4292dd7bbd6ae89ac, type: 3}
       propertyPath: m_LocalPosition.z

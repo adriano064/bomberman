@@ -1,6 +1,7 @@
 
 using System.Collections;
 using UnityEngine;
+using UnityEngine.Tilemaps;
 
 public class bomba : MonoBehaviour
 {
@@ -16,6 +17,11 @@ public class bomba : MonoBehaviour
     public float explosionDuration = 1f;
     public LayerMask explosionLayerMask;
     public int explosionRadius = 1;
+    
+    [Header("Destructible")]
+    public Tilemap destrutivelTiles;
+    public destrutivel destrutivelPrefab;
+
     
     private void OnEnable()
     {
@@ -70,6 +76,7 @@ public class bomba : MonoBehaviour
         
         if (Physics2D.OverlapBox(position, Vector2.one / 2f, 0f, explosionLayerMask))
         {
+            ClearDestrutivel(position);
             return;
         }
         
@@ -80,9 +87,19 @@ public class bomba : MonoBehaviour
         
         
         Explode(position, direction, length - 1);
+        
+    }
+    
+    private void ClearDestrutivel(Vector2 position)
+    {
+        Vector3Int cell = destrutivelTiles.WorldToCell(position);
+        TileBase tile = destrutivelTiles.GetTile(cell);
 
-
-      
+        if (tile != null)
+        {
+            Instantiate(destrutivelPrefab, position, Quaternion.identity);
+            destrutivelTiles.SetTile(cell, null);
+        }
     }
 
     ///chutar a bola

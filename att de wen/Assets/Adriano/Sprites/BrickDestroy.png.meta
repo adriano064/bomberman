@@ -140,7 +140,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: BrickDestroy_0
+      name: BrickDestroy_1
       rect:
         serializedVersion: 2
         x: 0
@@ -148,35 +148,14 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 35ae78e357bf6cb4ba2067c122f284f2
-      internalID: 1411590431
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BrickDestroy_1
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c83c9af4794bdeb49825b12942934164
-      internalID: -1608128662
+      spriteID: 6d0e34a85fbf67041b42fdf66a1969e0
+      internalID: 1226292512
       vertices: []
       indices: 
       edges: []
@@ -185,19 +164,19 @@ TextureImporter:
       name: BrickDestroy_2
       rect:
         serializedVersion: 2
-        x: 32
+        x: 16
         y: 0
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6b2d14006a660f144b76c27991c84705
-      internalID: -935468923
+      spriteID: 20e3027772ff4ea438c607af89979dcb
+      internalID: -1240120886
       vertices: []
       indices: 
       edges: []
@@ -206,19 +185,19 @@ TextureImporter:
       name: BrickDestroy_3
       rect:
         serializedVersion: 2
-        x: 48
+        x: 32
         y: 0
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2712254e851434d49bb025b17e1fddce
-      internalID: -1266075184
+      spriteID: 991167d241f2b3a4c97e6cc0950ad332
+      internalID: -2107472172
       vertices: []
       indices: 
       edges: []
@@ -227,19 +206,19 @@ TextureImporter:
       name: BrickDestroy_4
       rect:
         serializedVersion: 2
-        x: 64
+        x: 48
         y: 0
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1c4d729ae7067e249b64a9cbaf108cec
-      internalID: -377597908
+      spriteID: 65c56fa7658e0ce47abac9c2cd5e4fad
+      internalID: 801691359
       vertices: []
       indices: 
       edges: []
@@ -248,19 +227,61 @@ TextureImporter:
       name: BrickDestroy_5
       rect:
         serializedVersion: 2
-        x: 80
+        x: 64
         y: 0
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6d9e64ecf727e524e88ae8e98a432db6
-      internalID: 1020359151
+      spriteID: 383193ac84a8d844a925cd532a7f1f79
+      internalID: -1213129913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrickDestroy_6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9bcc0a81752a347ae95e15f11e0877
+      internalID: 442885415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrickDestroy_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6887a25e27d7c14ea2b8790b630b342
+      internalID: 1790665018
       vertices: []
       indices: 
       edges: []
@@ -276,11 +297,13 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      BrickDestroy_4: -377597908
-      BrickDestroy_5: 1020359151
-      BrickDestroy_1: -1608128662
-      BrickDestroy_2: -935468923
-      BrickDestroy_3: -1266075184
+      BrickDestroy_4: 801691359
+      BrickDestroy_7: 1790665018
+      BrickDestroy_5: -1213129913
+      BrickDestroy_6: 442885415
+      BrickDestroy_1: 1226292512
+      BrickDestroy_2: -1240120886
+      BrickDestroy_3: -2107472172
       BrickDestroy_0: 1411590431
   spritePackingTag: 
   pSDRemoveMatte: 0

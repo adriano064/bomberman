@@ -102,6 +102,12 @@ public class bomba : MonoBehaviour
         }
     }
 
+    public void AddBomb()
+    {
+        quantidadeBombas++;
+        bombasRestantes++;
+    }
+
     ///chutar a bola
    private void OnTriggerExit2D(Collider2D other)
     { 

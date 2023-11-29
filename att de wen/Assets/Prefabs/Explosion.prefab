@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 8738898952826878667}
   - component: {fileID: 7594080902422853946}
   - component: {fileID: 4001004992041306574}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: fim
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -121,7 +121,7 @@ GameObject:
   - component: {fileID: 7245355443072467276}
   - component: {fileID: 1427872691903811368}
   - component: {fileID: 7495689427885009151}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: meio
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -231,7 +231,7 @@ GameObject:
   - component: {fileID: 276764534308785679}
   - component: {fileID: 8498119470968597454}
   - component: {fileID: -1885317700189726580}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Explosion
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -308,7 +308,7 @@ GameObject:
   - component: {fileID: 7918967898592830129}
   - component: {fileID: 6393361470091852296}
   - component: {fileID: 8269189925382859247}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: inicio
   m_TagString: Untagged
   m_Icon: {fileID: 0}

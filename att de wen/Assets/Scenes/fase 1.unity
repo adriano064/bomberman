@@ -3060,6 +3060,22 @@ PrefabInstance:
       value: 0.4375
       objectReference: {fileID: 0}
     - target: {fileID: 253739859642256576, guid: 4d15bd285fde49f4292dd7bbd6ae89ac, type: 3}
+      propertyPath: inputUp
+      value: 273
+      objectReference: {fileID: 0}
+    - target: {fileID: 253739859642256576, guid: 4d15bd285fde49f4292dd7bbd6ae89ac, type: 3}
+      propertyPath: inputDown
+      value: 274
+      objectReference: {fileID: 0}
+    - target: {fileID: 253739859642256576, guid: 4d15bd285fde49f4292dd7bbd6ae89ac, type: 3}
+      propertyPath: inputLeft
+      value: 276
+      objectReference: {fileID: 0}
+    - target: {fileID: 253739859642256576, guid: 4d15bd285fde49f4292dd7bbd6ae89ac, type: 3}
+      propertyPath: inputRight
+      value: 275
+      objectReference: {fileID: 0}
+    - target: {fileID: 253739859642256576, guid: 4d15bd285fde49f4292dd7bbd6ae89ac, type: 3}
       propertyPath: spriteRendererDeath
       value: 
       objectReference: {fileID: 1871348500}

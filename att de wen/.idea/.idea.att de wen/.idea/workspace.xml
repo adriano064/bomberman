@@ -1,13 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="d1677b68-72f9-4706-b56e-822a8783a74d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Dracolis.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Dracolis/Dracolis.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Dracolis/Dracolis.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Dracolis/dracolis_down.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Dracolis/dracolis_down.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Dracolis/dracolis_left.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Dracolis/dracolis_left.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Dracolis/dracolis_right.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Dracolis/dracolis_right.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Dracolis/dracolis_up.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Dracolis/dracolis_up.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Fantasma.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Minotauro.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Minotauro/Minotauro.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Minotauro/Minotauro.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Minotauro/minotauro_down.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Minotauro/minotauro_down.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Minotauro/minotauro_left.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Minotauro/minotauro_left.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Minotauro/minotauro_right.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Minotauro/minotauro_right.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Minotauro/minotauro_up.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Minotauro/minotauro_up.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Morcego.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Dracolis.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Dracolis.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Minotauro.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Minotauro.prefab.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.att de wen/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.att de wen/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/fase 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/fase 1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/boot.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animação/inimigos/character_0.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Morcego/character_0.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animação/inimigos/character_0.controller.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Morcego/character_0.controller.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animação/inimigos/character_52.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Fantasma/character_52.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animação/inimigos/character_52.controller.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Fantasma/character_52.controller.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animação/inimigos/inimigo1.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Fantasma/inimigo1.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animação/inimigos/inimigo1.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Fantasma/inimigo1.anim.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animação/inimigos/inimigo1_cima.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Fantasma/inimigo1_cima.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animação/inimigos/inimigo1_cima.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Fantasma/inimigo1_cima.anim.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animação/inimigos/inimigo1_direita.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Fantasma/inimigo1_direita.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animação/inimigos/inimigo1_direita.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Fantasma/inimigo1_direita.anim.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animação/inimigos/inimigo1_esquerda.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Fantasma/inimigo1_esquerda.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animação/inimigos/inimigo1_esquerda.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Fantasma/inimigo1_esquerda.anim.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animação/inimigos/inimigo2_baixo.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Morcego/inimigo2_baixo.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animação/inimigos/inimigo2_baixo.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Morcego/inimigo2_baixo.anim.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animação/inimigos/inimigo2_cima.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Morcego/inimigo2_cima.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animação/inimigos/inimigo2_cima.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Morcego/inimigo2_cima.anim.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animação/inimigos/inimigo2_direita.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Morcego/inimigo2_direita.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animação/inimigos/inimigo2_direita.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Morcego/inimigo2_direita.anim.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animação/inimigos/inimigo2_esquerda.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Morcego/inimigo2_esquerda.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animação/inimigos/inimigo2_esquerda.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Morcego/inimigo2_esquerda.anim.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/behomath_0.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Boss_Behomath.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/behomath_0.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Boss_Behomath.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/character_0.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Morcego.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/character_0.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Morcego.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/character_52.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Fantasma.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/character_52.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Fantasma.prefab.meta" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,9 +75,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2YRZhIobfZ0s9PHZVQ4BjdXBmAR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -39,6 +91,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "pedro",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   },
@@ -112,6 +168,7 @@
       <workItem from="1701360439928" duration="282000" />
       <workItem from="1701426894631" duration="682000" />
       <workItem from="1702579285416" duration="50000" />
+      <workItem from="1702579347869" duration="797000" />
     </task>
     <servers />
   </component>

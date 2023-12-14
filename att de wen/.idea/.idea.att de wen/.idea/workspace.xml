@@ -5,61 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1677b68-72f9-4706-b56e-822a8783a74d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Dracolis.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Dracolis/Dracolis.controller" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Dracolis/Dracolis.controller.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Dracolis/dracolis_down.anim" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Dracolis/dracolis_down.anim.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Dracolis/dracolis_left.anim" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Dracolis/dracolis_left.anim.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Dracolis/dracolis_right.anim" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Dracolis/dracolis_right.anim.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Dracolis/dracolis_up.anim" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Dracolis/dracolis_up.anim.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Fantasma.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Minotauro.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Minotauro/Minotauro.controller" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Minotauro/Minotauro.controller.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Minotauro/minotauro_down.anim" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Minotauro/minotauro_down.anim.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Minotauro/minotauro_left.anim" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Minotauro/minotauro_left.anim.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Minotauro/minotauro_right.anim" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Minotauro/minotauro_right.anim.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Minotauro/minotauro_up.anim" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Minotauro/minotauro_up.anim.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Morcego.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Dracolis.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Dracolis.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Minotauro.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Minotauro.prefab.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.att de wen/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.att de wen/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animação/inimigos/character_0.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Morcego/character_0.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animação/inimigos/character_0.controller.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Morcego/character_0.controller.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animação/inimigos/character_52.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Fantasma/character_52.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animação/inimigos/character_52.controller.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Fantasma/character_52.controller.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animação/inimigos/inimigo1.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Fantasma/inimigo1.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animação/inimigos/inimigo1.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Fantasma/inimigo1.anim.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animação/inimigos/inimigo1_cima.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Fantasma/inimigo1_cima.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animação/inimigos/inimigo1_cima.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Fantasma/inimigo1_cima.anim.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animação/inimigos/inimigo1_direita.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Fantasma/inimigo1_direita.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animação/inimigos/inimigo1_direita.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Fantasma/inimigo1_direita.anim.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animação/inimigos/inimigo1_esquerda.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Fantasma/inimigo1_esquerda.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animação/inimigos/inimigo1_esquerda.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Fantasma/inimigo1_esquerda.anim.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animação/inimigos/inimigo2_baixo.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Morcego/inimigo2_baixo.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animação/inimigos/inimigo2_baixo.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Morcego/inimigo2_baixo.anim.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animação/inimigos/inimigo2_cima.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Morcego/inimigo2_cima.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animação/inimigos/inimigo2_cima.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Morcego/inimigo2_cima.anim.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animação/inimigos/inimigo2_direita.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Morcego/inimigo2_direita.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animação/inimigos/inimigo2_direita.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Morcego/inimigo2_direita.anim.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animação/inimigos/inimigo2_esquerda.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Morcego/inimigo2_esquerda.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animação/inimigos/inimigo2_esquerda.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animação/inimigos/Morcego/inimigo2_esquerda.anim.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/behomath_0.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Boss_Behomath.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/behomath_0.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Boss_Behomath.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/character_0.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Morcego.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/character_0.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Morcego.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/character_52.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Fantasma.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/character_52.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Fantasma.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/fase 1.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/fase 1.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/GameManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +20,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Script/GameController.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/ItemPickups.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -84,28 +35,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Discover.Launch.Via.Unity": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "pedro",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Discover.Launch.Via.Unity&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;pedro&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "C:\\Users\\20211170150004\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\DecompilerCache",
-      "C:\\Users\\20211170150004\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\SourcesCache",
-      "C:\\Users\\20211170150004\\AppData\\Local\\Symbols\\src"
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\20211170150004\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\20211170150004\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\20211170150004\\AppData\\Local\\Symbols\\src&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="D:\Program Filess\Unity\Hub\Editor\2022.3.15f1\Editor\Unity.exe" />
@@ -169,6 +120,8 @@
       <workItem from="1701426894631" duration="682000" />
       <workItem from="1702579285416" duration="50000" />
       <workItem from="1702579347869" duration="797000" />
+      <workItem from="1702582129883" duration="175000" />
+      <workItem from="1702582512902" duration="1008000" />
     </task>
     <servers />
   </component>
